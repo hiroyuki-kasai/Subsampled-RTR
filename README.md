@@ -1,7 +1,7 @@
 # Subsampled-RTR
 Inexact trust-region algorithms on Riemannian manifolds
 
-Authors: [Hiroyuki Kasai](http://kasai.kasailab.com/) and [Bamdev Mishra](https://bamdevmishra.in/)
+Authors: [Hiroyuki Kasai](http://www.kasailab.com/kasai_e.htm) and [Bamdev Mishra](https://bamdevmishra.in/)
 
 Last page update: November 24, 2018
 
