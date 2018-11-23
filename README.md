@@ -5,7 +5,7 @@ Authors: [Hiroyuki Kasai](http://kasai.kasailab.com/) and [Bamdev Mishra](https:
 
 Last page update: November 24, 2018
 
-Latest library version: 1.0.17 (see Release notes for more info)
+Latest library version: 1.0.0 (see Release notes for more info)
 
 <br />
 
