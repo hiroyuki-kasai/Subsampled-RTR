@@ -22,6 +22,7 @@ The document can be obtained from below;
 
 - H. Kasai and B. Mishra, "[Inexact trust-region algorithms on Riemannian manifolds](https://neurips.cc/Conferences/2018/Schedule?showEvent=11421)," NIPS2018
 
+<br />
 
 Problems or questions
 ---------------------
