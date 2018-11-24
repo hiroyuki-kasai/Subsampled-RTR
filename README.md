@@ -12,6 +12,12 @@ Introduction
 ----------
 The package contains a MATLAB code presented in the report "Inexact trust-region algorithms on Riemannian manifolds" by Hiroyuki Kasai and Bamdev Mishra in NIPS2018.
 
+<br />
+
+Code
+----------
+The code will be available very soon.
+
 
 <br />
 
