@@ -1,4 +1,4 @@
-# Subsampled trust-region algorithms on Riemannian manifolds
+# Subsampled Riemannian trust-region (RTR) algorithms
 
 Authors: [Hiroyuki Kasai](http://www.kasailab.com/kasai_e.htm) and [Bamdev Mishra](https://bamdevmishra.in/)
 
