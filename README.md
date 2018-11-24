@@ -31,14 +31,14 @@ The document can be obtained from below;
 
 License
 ----------
-(c) 2017-2018 Hiroyuki Kasai (kasai **at** is **dot** uec **dot** ac **dot** jp), and Bamdev Mishra (bamdevm **at** gmail **dot** com).
+(c) 2017-2018 Hiroyuki Kasai (kasai **at** is **dot** uec **dot** ac **dot** jp) and Bamdev Mishra (bamdevm **at** gmail **dot** com).
 
 
 <br />
 
 Problems or questions
 ---------------------
-If you have any problems or questions, please contact the author: [Hiroyuki Kasai](http://www.kasailab.com/kasai_e.htm) (email: kasai **at** is **dot** uec **dot** ac **dot** jp)
+If you have any problems or questions, please contact the author: [Hiroyuki Kasai](http://www.kasailab.com/kasai_e.htm) (email: kasai **at** is **dot** uec **dot** ac **dot** jp).
 
 <br />
 
