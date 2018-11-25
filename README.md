@@ -10,7 +10,7 @@ Latest library version: 1.0.0 (see Release notes for more info)
 
 Introduction
 ----------
-The package contains a MATLAB code presented in the report "Inexact trust-region algorithms on Riemannian manifolds" by Hiroyuki Kasai and Bamdev Mishra in NIPS2018.
+The package contains a MATLAB code presented in the report "Inexact trust-region algorithms on Riemannian manifolds" by Hiroyuki Kasai and Bamdev Mishra in NeurIPS2018 (NIPS2018).
 
 <br />
 
@@ -25,7 +25,7 @@ Document
 ----------
 The document can be obtained from below;
 
-- H. Kasai and B. Mishra, "[Inexact trust-region algorithms on Riemannian manifolds](https://neurips.cc/Conferences/2018/Schedule?showEvent=11421)," NIPS2018.
+- H. Kasai and B. Mishra, "[Inexact trust-region algorithms on Riemannian manifolds](https://neurips.cc/Conferences/2018/Schedule?showEvent=11421)," NeurIPS2018 (NIPS2018).
 
 <br />
 
