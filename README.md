@@ -53,7 +53,7 @@ This script demonstrates the case study of using the proposed Subsampled-RTR alg
 Below is the results of the optimality gap vs. iteration number and time [sec]. 
 
 
-<img src="https://github.com/hiroyuki-kasai/Subsampled-RTR/figs/demo.png" width="900">
+<img src="https://github.com/hiroyuki-kasai/Subsampled-RTR/blob/master/figs/demo.png" width="900">
 <br /><br />
 
 <br />
