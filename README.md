@@ -67,11 +67,23 @@ Performance results (from paper):
 <img src="https://github.com/hiroyuki-kasai/Subsampled-RTR/blob/master/figs/mc.png" width="900">
 
 
-Document
+Cite
 ----------
 The document can be obtained from below;
 
 - H. Kasai and B. Mishra, "[Inexact trust-region algorithms on Riemannian manifolds](http://papers.nips.cc/paper/7679-inexact-trust-region-algorithms-on-riemannian-manifolds)," NeurIPS2018 (NIPS2018).
+
+
+Please cite our paper if you use this code in your own work:
+
+```
+@conference{Kasai_NeurIPS_2018,
+    Author = {Kasai, H. and Mishra, B.},
+    Booktitle = {NeurIPS},
+    Title = {Inexact trust-region algorithms on {R}iemannian manifolds},
+    Year = {2018}
+}
+```
 
 <br />
 
