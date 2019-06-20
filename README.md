@@ -26,7 +26,7 @@ Folders and files
 |problem/               - Problem definition files to be solved.
 |propose/               - Contains proposed algorithm files.
 |tools/                 - Contains data generation scripts.
-|docs/                  - PDF files of NeurIPS paper.
+|docs/                  - PDF files of NeurIPS paper and poster.
 </pre>   
 
 <br />
@@ -62,7 +62,7 @@ Document
 ----------
 The document can be obtained from below;
 
-- H. Kasai and B. Mishra, "[Inexact trust-region algorithms on Riemannian manifolds](https://neurips.cc/Conferences/2018/Schedule?showEvent=11421)," NeurIPS2018 (NIPS2018).
+- H. Kasai and B. Mishra, "[Inexact trust-region algorithms on Riemannian manifolds](http://papers.nips.cc/paper/7679-inexact-trust-region-algorithms-on-riemannian-manifolds)," NeurIPS2018 (NIPS2018).
 
 <br />
 
