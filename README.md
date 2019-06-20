@@ -54,7 +54,6 @@ Below is the results of the optimality gap vs. iteration number and time [sec].
 <br /><br />
 
 <img src="https://github.com/hiroyuki-kasai/Subsampled-RTR/blob/master/figs/demo.png" width="900">
-<br /><br />
 
 <br />
 
