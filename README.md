@@ -69,11 +69,6 @@ Performance results (from paper):
 
 Cite
 ----------
-The document can be obtained from below;
-
-- H. Kasai and B. Mishra, "[Inexact trust-region algorithms on Riemannian manifolds](http://papers.nips.cc/paper/7679-inexact-trust-region-algorithms-on-riemannian-manifolds)," NeurIPS2018 (NIPS2018).
-
-
 Please cite our paper if you use this code in your own work:
 
 ```
