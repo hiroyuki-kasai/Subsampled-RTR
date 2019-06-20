@@ -57,7 +57,7 @@ Below is the results of the optimality gap vs. iteration number and time [sec].
 
 <br />
 
-Performance results:
+Performance results (from paper):
 ----------
 
 - **PCA problem**
@@ -66,7 +66,6 @@ Performance results:
 - **Matrix completion problem**
 <img src="https://github.com/hiroyuki-kasai/Subsampled-RTR/blob/master/figs/mc.png" width="900">
 
-<br />
 
 Document
 ----------
@@ -90,6 +89,8 @@ Confirmed operating environment:
     - MATLAB 9.1.0.441655 (R2016b)
     - MATLAB 9.4.0.813654 (R2018a)
 - Note that RTRMC may not work properly in some environments due to its Mex-files. 
+
+<br />
 
 Problems or questions
 ---------------------
