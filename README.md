@@ -51,8 +51,7 @@ demo;
 <br />
 This script demonstrates the case study of using the proposed Subsampled-RTR algorithm (Sub-H-RTR) on a small PCA problem instance. 
 Below is the results of the optimality gap vs. iteration number and time [sec]. 
-
-<br />
+<br /><br />
 
 <img src="https://github.com/hiroyuki-kasai/Subsampled-RTR/blob/master/figs/demo.png" width="900">
 <br /><br />
