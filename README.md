@@ -60,11 +60,12 @@ Below is the results of the optimality gap vs. iteration number and time [sec].
 Performance results:
 ----------
 
-**PCA problem**
+- **PCA problem**
 <img src="https://github.com/hiroyuki-kasai/Subsampled-RTR/blob/master/figs/pca.png" width="900">
 
 <br />
-**Matrix completion problem**
+
+- **Matrix completion problem**
 <img src="https://github.com/hiroyuki-kasai/Subsampled-RTR/blob/master/figs/mc.png" width="900">
 
 <br />
