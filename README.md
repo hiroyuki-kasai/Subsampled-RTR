@@ -69,7 +69,7 @@ Performance results (from paper):
 
 Cite
 ----------
-Please cite our paper if you use this code in your own work:
+Please cite our paper if you use this code in your own work.
 
 ```
 @conference{Kasai_NeurIPS_2018,
