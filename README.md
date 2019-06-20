@@ -84,6 +84,14 @@ License
 
 <br />
 
+Confirmed operating environment: 
+--------------------------------
+- This code has been checked on Mac OS (64 bits) under
+    Matlab 8.2.0.701 (R2013b)
+    Matlab 9.1.0.441655 (R2016b)
+    Matlab 9.4.0.813654 (R2018a)
+- Note that RTRMC may not work properly in some environments due to its Mex-files. 
+
 Problems or questions
 ---------------------
 If you have any problems or questions, please contact the author: [Hiroyuki Kasai](http://www.kasailab.com/kasai_e.htm) (email: kasai **at** is **dot** uec **dot** ac **dot** jp).
