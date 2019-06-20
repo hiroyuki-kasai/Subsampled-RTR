@@ -57,6 +57,18 @@ Below is the results of the optimality gap vs. iteration number and time [sec].
 
 <br />
 
+Performance results:
+----------
+
+** PCA proble **
+<img src="https://github.com/hiroyuki-kasai/Subsampled-RTR/blob/master/figs/pca.png" width="900">
+
+<br />
+** Matrix completion proble **
+<img src="https://github.com/hiroyuki-kasai/Subsampled-RTR/blob/master/figs/mc.png" width="900">
+
+<br />
+
 Document
 ----------
 The document can be obtained from below;
@@ -67,7 +79,7 @@ The document can be obtained from below;
 
 License
 ----------
-(c) 2017-2018 Hiroyuki Kasai (kasai **at** is **dot** uec **dot** ac **dot** jp) and Bamdev Mishra (bamdevm **at** gmail **dot** com).
+(c) 2017-2019 Hiroyuki Kasai (kasai **at** is **dot** uec **dot** ac **dot** jp) and Bamdev Mishra (bamdevm **at** gmail **dot** com).
 
 
 <br />
