@@ -63,8 +63,6 @@ Performance results:
 - **PCA problem**
 <img src="https://github.com/hiroyuki-kasai/Subsampled-RTR/blob/master/figs/pca.png" width="900">
 
-<br />
-
 - **Matrix completion problem**
 <img src="https://github.com/hiroyuki-kasai/Subsampled-RTR/blob/master/figs/mc.png" width="900">
 
