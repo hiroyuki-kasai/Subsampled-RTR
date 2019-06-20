@@ -86,9 +86,9 @@ License
 Confirmed operating environment: 
 --------------------------------
 - This code has been checked on Mac OS (64 bits) under
-    Matlab 8.2.0.701 (R2013b)
-    Matlab 9.1.0.441655 (R2016b)
-    Matlab 9.4.0.813654 (R2018a)
+    - MATLAB 8.2.0.701 (R2013b)
+    - MATLAB 9.1.0.441655 (R2016b)
+    - MATLAB 9.4.0.813654 (R2018a)
 - Note that RTRMC may not work properly in some environments due to its Mex-files. 
 
 Problems or questions
