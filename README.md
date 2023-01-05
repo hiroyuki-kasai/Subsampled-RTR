@@ -1,6 +1,6 @@
 # Subsampled Riemannian trust-region (RTR) algorithms
 
-Authors: [Hiroyuki Kasai](http://www.kasailab.com/kasai) and [Bamdev Mishra](https://bamdevmishra.in/)
+Authors: [Hiroyuki Kasai]http://kasai.comm.waseda.ac.jp/kasai/) and [Bamdev Mishra](https://bamdevmishra.in/)
 
 Last page update: June 20, 2019
 
